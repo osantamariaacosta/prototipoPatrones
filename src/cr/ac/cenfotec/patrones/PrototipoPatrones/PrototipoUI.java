@@ -1,6 +1,6 @@
 /**
 
-first commit
+first push
  * 
  */
 package cr.ac.cenfotec.patrones.PrototipoPatrones;
